@@ -1,4 +1,4 @@
-# OpenROAD_7nm Physical Design Contest by VSD (VLSI System Design) & UCSD (University of California San Diego)
+# OpenROAD_7nm Physical Design Contest by VSD (VLSI System Design) 
 The repository reflects my learnings and concepts I understood during the OpenROAD Design Contest. Details for the contest can be found on (https://www.openroaddesigncontest.org/)
 
 ## About OpenROAD and it's Flow Controllers (OpenROAD Flow Scripts and OpenLANE)
